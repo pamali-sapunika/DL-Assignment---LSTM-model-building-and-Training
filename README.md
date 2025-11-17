@@ -1,6 +1,6 @@
 ### Deep Learing Assignment - LSTM Training
 
-Implementation of an LSTM-based neural network for sequence modeling. Designed for training and evaluating time-series and sequence based dataset: Austrelian Rainfall Dataset
+Implementation of an LSTM-based neural network for sequence modeling. Designed for training and evaluating time-series and sequence based dataset: Austrelian Rainfall Dataset (weatherAUS.csv)
 
 Austrelian Rainfall Dataset: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package 
 </br>🌧️This dataset includes about 10 years of daily weather observations from numerous Australian weather stations.
